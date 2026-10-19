@@ -1,0 +1,6 @@
+{
+  "name": "LumiStudio Pro | 互動式相片比例與光影暗房",
+  "description": "專業攝影相片比例裁切與光學暗房工坊。支援多種畫幅比例、即時滑鼠跟隨光學耀光與重影、電影級色調風格預設、暗角顆粒感與 EXIF 展覽相框。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
